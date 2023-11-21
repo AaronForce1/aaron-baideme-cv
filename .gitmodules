@@ -1,0 +1,3 @@
+[submodule "themes/aaron-baideme-cv"]
+	path = themes/aaron-baideme-cv
+	url = https://github.com/aaronforce1/hugo-theme-aaron-baideme-cv.git
